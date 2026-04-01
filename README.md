@@ -36,7 +36,11 @@ $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Inside the class write a recursive method `int sum(int n)` that returns the sum of digits of it's argument.
 + Write a test program in the `main` method of `DigitSum` class to test the `sum` method.
 
-### String Reverse (2 points)
+### Reverse String (2 points)
++ Create a class `ReverseString`.
++ Inside the class implement a recursive method `String reverse(String s)` that returns the reverse of it's argument.
++ Write a test program in the `main` method of `ReverseString` class to test the `reverse` method.
+
 ### Palindrome (2 points)
 ### Decimal to BinaryString (2 points)
 ### BinaryString to Decimal (2points)
