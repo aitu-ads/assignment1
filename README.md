@@ -63,7 +63,7 @@ For the assignments below use only primitive data types, `String` variables and 
 + Write a test program in the `main` method of `BinaryDecimal` class to test the `bin2dec` method.
   
 ### String Permutations (5 points)
-+ Create a class `StringPermution`.
++ Create a class `StringPermutation`.
 + Inside the class implement a method `void printPermutations(String s)` that prints all the perumations of the string characters.
 + Use recursive helping methods of your own to solve the problem.
 + `printPermutations` is not recursive, it's just a wrapper around your own recursive method.
