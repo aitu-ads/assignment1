@@ -61,7 +61,7 @@ $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Inside the class implement a method `void printPermutations(String s)` that prints all the perumations of the string characters.
 + Use recursive helping methods of your own to solve the problem.
 + `printPermutations` is not recursive, it's just a wrapper around your own recursive method.
-+ Write a test program in the `main` method of `StringPermuation` class to test the `printPermutations` method.
++ Write a test program in the `main` method of `StringPermutation` class to test the `printPermutations` method.
 + For example, `printPermutations("abc")` prints:
   ```
   abc
