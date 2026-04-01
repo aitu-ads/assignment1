@@ -18,9 +18,13 @@ For the assignments below use only primitive data types, `String` variables and 
 
 ### Sum Series (3 points)
 + Create a class `SumSeries`
-+ Write a recursive method `double sum(int i)` to compute the following series:
++ Write a recursive method `double sum1(int i)` to compute the following series:
 $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
-+ Write a test program in the `main` method of  `SumSeries` class.
++ Write a recursive method `double sum2(int i)` to compute the following series:
+$1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
++ Write a recursive method `double sum3(int i)` to compute the following series:
+$1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
++ Write a test program in the `main` method of  `SumSeries` class to test the three methods.
 
 ### Reverse Integer (2 point)
 ### Digit Sum(2 point)
