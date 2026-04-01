@@ -24,7 +24,7 @@ For the assignments below use only primitive data types, `String` variables and 
 
 + Write a recursive method `double sum2(int i)` to compute the following series:
   
-  $sum2(i) = 1 + \frac{1}{3} + \frac{2}{5} + \frac{3}{7} + \frac{4}{9} + \frac{5}{11} + \frac{6}{13} + ... + \frac{i}{2i+1}$
+  $sum2(i) = \frac{1}{3} + \frac{2}{5} + \frac{3}{7} + \frac{4}{9} + \frac{5}{11} + \frac{6}{13} + ... + \frac{i}{2i+1}$
 
 + Write a recursive method `double sum3(int i)` to compute the following series:
 
