@@ -34,8 +34,8 @@ For the assignments below use only primitive data types, `String` variables and 
 
 ### Reverse Integer (2 points)
 + Create a class `ReverseInteger`.
-+ Inside the class write a recursive method `int reverse(int n)` that reverses it's argument. For example, `reverse(123)` returns `321`.
-+ Write a test program in the `main` method of `ReverseInteger` class to test the `reverse` method.
++ Inside the class write a recursive method `void printReversal(int n)` that prints the reversal of it's argument. For example, `printReversal(123)` prints `"321"`.
++ Write a test program in the `main` method of `ReverseInteger` class to test the `printReversal` method.
 
 ### Digit Sum (2 points)
 + Create a class `DigitSum`.
