@@ -26,12 +26,16 @@ $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Write a test program in the `main` method of `SumSeries` class to test the three methods.
 
-### Reverse Integer (2 point)
+### Reverse Integer (2 points)
 + Create a class `ReverseInteger`.
-+ Write a recursive method `int reverse(int n)` that reverses it's argument. For example, `reverse(123)` returns `321`.
++ Inside the class write a recursive method `int reverse(int n)` that reverses it's argument. For example, `reverse(123)` returns `321`.
 + Write a test program in the `main` method of `ReverseInteger` class to test the `reverse` method.
 
 ### Digit Sum(2 point)
++ Create a class `DigitSum`.
++ Inside the class write a recursive method `int sum(int n)` that returns the sum of digits of it's argument.
++ Write a test program in the `main` method of `DigitSum` class to test the `sum` method.
+
 ### String Reverse (2 points)
 ### Palindrome (2 points)
 ### Decimal to BinaryString (2 points)
