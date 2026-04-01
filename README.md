@@ -31,7 +31,7 @@ $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Inside the class write a recursive method `int reverse(int n)` that reverses it's argument. For example, `reverse(123)` returns `321`.
 + Write a test program in the `main` method of `ReverseInteger` class to test the `reverse` method.
 
-### Digit Sum(2 point)
+### Digit Sum (2 points)
 + Create a class `DigitSum`.
 + Inside the class write a recursive method `int sum(int n)` that returns the sum of digits of it's argument.
 + Write a test program in the `main` method of `DigitSum` class to test the `sum` method.
