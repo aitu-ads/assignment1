@@ -17,16 +17,20 @@ For the assignments below use only primitive data types, `String` variables and 
 
 
 ### Sum Series (3 points)
-+ Create a class `SumSeries`
++ Create a class `SumSeries`.
 + Write a recursive method `double sum1(int i)` to compute the following series:
 $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Write a recursive method `double sum2(int i)` to compute the following series:
 $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Write a recursive method `double sum3(int i)` to compute the following series:
 $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
-+ Write a test program in the `main` method of  `SumSeries` class to test the three methods.
++ Write a test program in the `main` method of `SumSeries` class to test the three methods.
 
 ### Reverse Integer (2 point)
++ Create a class `ReverseInteger`.
++ Write a recursive method `int reverse(int n)` that reverses it's argument. For example, `reverse(123)` returns `321`.
++ Write a test program in the `main` method of `ReverseInteger` class to test the `reverse` method.
+
 ### Digit Sum(2 point)
 ### String Reverse (2 points)
 ### Palindrome (2 points)
