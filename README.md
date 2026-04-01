@@ -6,7 +6,7 @@ For the assignments below use only primitive data types, `String` variables and 
 
 + Create a class `Fibonacci`.
 + Implement a static method `int fib(int n)` inside the class that computes the n-th Fibonacci number (Fibonacci numbers start like this: $0, 1, 1, 2, 3, 5 ...$ ).
-+ Method `int fib(int n)` should also count the number of times it was called. (Hint: a static variable can be used).
++ Recursive method `int fib(int n)` should also count the number of times it was called. (Hint: a static variable can be used).
 + Write a testing program in the `main` method of `Fibonacci` class to test the `fib` method.
 
 ### Big Factorial (3 points)
