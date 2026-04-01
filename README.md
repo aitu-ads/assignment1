@@ -42,6 +42,10 @@ $1 + \frac{1}{2} + \frac{1}{3} + ... + \frac{1}{i}$
 + Write a test program in the `main` method of `ReverseString` class to test the `reverse` method.
 
 ### Palindrome (2 points)
++ Create a class `Palindrome`.
++ Inside the class implement a recursive method `boolean isPalindrome(String s)` that returns `true` if it's argument is a palindorme, and returns `false` otherwise.
++ Write a test program in the `main` method of `Palindrome` class to test the `isPalindrome` method.
+  
 ### Decimal to BinaryString (2 points)
 ### BinaryString to Decimal (2points)
 ### String Permutations (5 points)
